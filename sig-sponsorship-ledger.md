@@ -24,7 +24,7 @@ Every OpenTelemetry SIG with its Governance Committee (GC) liaison and Technical
 
 | TC member | Leading | Guiding | Escalating | No level set | Total |
 | --- | --- | --- | --- | --- | --- |
-| [Reiley Yang](https://github.com/reyang) | 1 | 0 | 7 | 1 | 9 |
+| [Reiley Yang](https://github.com/reyang) | 1 | 1 | 7 | 0 | 9 |
 | [David Ashpole](https://github.com/dashpole) | 3 | 1 | 4 | 0 | 8 |
 | [Liudmila Molkova](https://github.com/lmolkova) | 3 | 1 | 3 | 0 | 7 |
 | [Carlos Alberto Cortez](https://github.com/carlosalberto) | 0 | 1 | 5 | 0 | 6 |
@@ -119,7 +119,7 @@ _Sponsorship of "Specification: General + OTel Maintainers Sync" is collective a
 | Contributor Experience | [Marylia Gutierrez](https://github.com/maryliag) | [Liudmila Molkova](https://github.com/lmolkova) (escalating) |
 | Developer Experience | [Austin Parker](https://github.com/austinlparker) | [Liudmila Molkova](https://github.com/lmolkova) (escalating) |
 | Bengali (bn)<br><sub>under Communications (Website, [Documentation](https://opentelemetry.io/docs/), etc.)</sub> | [Severin Neumann](https://github.com/svrnm) | tbd |
-| Chinese (zh-CN)<br><sub>under Communications (Website, [Documentation](https://opentelemetry.io/docs/), etc.)</sub> | [Severin Neumann](https://github.com/svrnm) | [Reiley Yang](https://github.com/reyang) |
+| Chinese (zh-CN)<br><sub>under Communications (Website, [Documentation](https://opentelemetry.io/docs/), etc.)</sub> | [Severin Neumann](https://github.com/svrnm) | [Reiley Yang](https://github.com/reyang) (guiding) |
 | French (fr-FR)<br><sub>under Communications (Website, [Documentation](https://opentelemetry.io/docs/), etc.)</sub> | [Severin Neumann](https://github.com/svrnm) | tbd |
 | Japanese (ja-JA)<br><sub>under Communications (Website, [Documentation](https://opentelemetry.io/docs/), etc.)</sub> | [Severin Neumann](https://github.com/svrnm) | tbd |
 | Polish (pl-PL)<br><sub>under Communications (Website, [Documentation](https://opentelemetry.io/docs/), etc.)</sub> | [Severin Neumann](https://github.com/svrnm) | [Robert Pająk](https://github.com/pellared) (guiding) |
