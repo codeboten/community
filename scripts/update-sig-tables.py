@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+#
+# Copyright The OpenTelemetry Authors
+# SPDX-License-Identifier: Apache-2.0
 import re
 import subprocess
 import sys
@@ -125,8 +128,6 @@ cross_sigs = []
 localization_sigs = []
 
 for ws in workstreams:
-    if ws.get("kind") != "sig":
-        continue
     category = ws.get("sigCategory")
     parent = ws.get("parent", "none")
 
